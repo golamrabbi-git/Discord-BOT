@@ -3,8 +3,8 @@
 Discord bot that integrates with ChatGPT for interactive chat, defination of a word using urban dictionary API. It provides several slash commands for various functionalities.
 
 ## Features
-- **/user**: Get information about a user.
-- **/ban**: Ban a member from the Discord server.
+- **user**: Get information about a user.
+- **ban**: Ban a member from the Discord server.
 - **ChatGPT Integration**: Engage in interactive chats using ChatGPT.
 - **Urban Dictonary  Integration**: Engage in interactive chats using ChatGPT.
 
@@ -42,7 +42,7 @@ Discord bot that integrates with ChatGPT for interactive chat, defination of a w
     ```
     DISCORD_TOKEN=your_discord_bot_token
     CHATGPT_TOKEN=your_chatgpt_token
-    
+
     ```
 
 ## Configuration
